@@ -10,4 +10,5 @@ What I Discovered: Parking & Housing Are Top of Mind: The data clearly showed th
 
 The Final Dashboard Here is a image link of the interactive dashboard I built in Power BI to visualize these findings. Each chart is powered by a direct SQL query to the database.
 
-image
+<img width="1151" height="647" alt="image" src="https://github.com/user-attachments/assets/d5049853-c1f9-444d-9498-228e660dac87" />
+
