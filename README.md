@@ -1,6 +1,6 @@
 # Civic-Pulse-NYC-Service-Request-Analysis
 
-Project Objective
+Project Objective: 
 To analyze 750,000+ public service requests from Q1 2024 to identify key civic issues, measure city-wide response effectiveness, and find operational hotspots.
 
 Tech Stack
